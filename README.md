@@ -4,7 +4,7 @@ Annoyed at YouTube for interrupting your videos every so often? This extension s
 
 ## Installation
 
-- Run this command in your terminal to clone the repository or download the zip file under `<> Code`:
+- Download the zip file under `<> Code` OR run this command in your terminal to clone the repository:
   `git clone https://github.com/Andrew32A/youtube-nonstop-extension.git`
 - Open Chrome and go to chrome://extensions/
 - Enable Developer Mode on the top right
