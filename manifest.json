@@ -2,10 +2,12 @@
   "manifest_version": 3,
   "name": "YouTube Nonstop",
   "version": "1.0.0",
+  "description": "Automatically clicks the 'Yes' button on YouTube's auto-pause confirmation dialog.",
   "content_scripts": [
     {
       "matches": ["*://www.youtube.com/*"],
-      "js": ["content.js"]
+      "js": ["content.js"],
+      "run_at": "document_idle"
     }
   ]
 }
