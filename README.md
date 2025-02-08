@@ -1,6 +1,6 @@
 # YouTube Nonstop - Chrome Extension
 
-Annoyed at YouTube for interrupting your videos every so often? This extension simply clicks the "Yes" button on the video player when it asks if you're still watching.
+Annoyed at YouTube for interrupting your videos every so often? This lightweight extension simply clicks the "Yes" button on the video player when it asks if you're still watching. Highly recommended to use an adblocker such as Ublock Origin alongside this extension for uninterrupted play.
 
 ## Installation
 
