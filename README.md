@@ -1,6 +1,6 @@
 # YouTube Nonstop - Chrome Extension
 
-Annoyed at YouTube for interrupting your videos every so often? This lightweight extension bypasses the pop up when it asks if you're still watching. Highly recommended to use an adblocker such as Ublock Origin alongside this extension for uninterrupted play.
+Annoyed at YouTube for interrupting your videos every so often? This lightweight extension bypasses the pop up when it asks if you're still watching!
 
 ## Installation
 
@@ -14,5 +14,6 @@ Annoyed at YouTube for interrupting your videos every so often? This lightweight
 
 ## Notes
 
+- Highly recommended to use an adblocker such as Ublock Origin alongside this extension for uninterrupted play
 - The YouTube tab must be active for the extension to work properly unfortunately
 - Currently only tested for Windows, but should work for Mac and Linux as well
